@@ -6,10 +6,12 @@ WE got here 3 type of difficulties:**
 - [medium](#medium-difficulty)
 - [hard](#hard-difficulty)
 
-- 
+
 **Source:**https://www.sql-practice.com/
 
 **Table Schemas:**
+
+
 ![image](https://github.com/Hordiychuk-Radion/sql-practice/assets/139583782/e4559030-9fc6-45d4-bdcd-2d5ccf507520)
 
 ![image](https://github.com/Hordiychuk-Radion/sql-practice/assets/139583782/1f0f5f7b-4b8d-4dc2-90d8-fca17650a9ec)
