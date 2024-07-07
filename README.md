@@ -3,8 +3,8 @@
 **Hello everyone.This is my sql practice.
 WE got here 3 type of difficulties:**
 - [Easy](#easy-difficulty)
-- [medium](#medium-difficulty)
-- [hard](#hard-difficulty)
+- [Medium](#medium-difficulty)
+- [Hard](#hard-difficulty)
 
 
 **Source:**https://www.sql-practice.com/
